@@ -1,38 +1,29 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# npm包发布流程
+1. 编写模块   
+    ```
+    //main.js  
+    module.exports={};
+    ```
+    
+2. 初始化包描述文件  
+    ```
+    npm init        /*按提示操作*/
+    ```
+    
+3. 注册包仓库账号  
+    ```
+    npm adduser     /*按提示注册用户名和邮箱*/
+    ```
+    
+4. 上传包  
+在package.json所在的同级目录中 `npm publish .`               			注意publish后面有点。
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+5. 包权限管理
+    ```
+    查看包的维护人员        npm owner ls 包名
+    增加包的维护人员        npm owner add 新增的用户名 包名
+    删除包的维护人员        npm owner rm 要删除的用户名 包名
+    ```
