@@ -4,8 +4,8 @@
 
 # Site
 title: Sea's Blog
-subtitle:
-description:
+subtitle: 
+description: 
 keywords: 
 author: 邢海洋
 email: 1295306442@qq.com
@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.xinghaiyang.com/
 root: /
 permalink: :year:month:day/:title/
 permalink_defaults:
@@ -80,7 +80,7 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: root@xinghaiyang.com:blog.git
+  repo: root@59.110.238.89:blog.git
   branch: master   
 
 feed:

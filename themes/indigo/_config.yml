@@ -13,13 +13,13 @@ menu:
     url: /
   archives: 
     text: 归档
-    url: /archives
-  tags: 
-    text: 标签
-    url: /tags
+    url: /archives 
   th-list:
     text: 分类
     url: /categories
+  tags: 
+    text: 标签
+    url: /tags  
   github:
     url: https://github.com/xinghaiyang1994
     target: _blank
@@ -47,7 +47,7 @@ categories_title: 分类
 
 # 文章截断
 excerpt_render: false
-excerpt_length: 200
+excerpt_length: 100
 excerpt_link: 阅读全文
 mathjax: false
 archive_yearly: true
@@ -60,7 +60,7 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 谢谢大爷~
+  title: 谢谢~
   wechat: /img/wxpay.png     #微信，关闭设为 false
   alipay: /img/alipay.png     #支付宝，关闭设为 false
 
@@ -82,7 +82,7 @@ postMessage:
 cnzz: false
 
 # 百度统计，如要开启，改为你的 key
-baidu_tongji: false
+baidu_tongji: 1c4b772d9690767ab4ca4f1b4c766783
 
 # 腾讯分析，如要开启，输入站点id
 tajs: false
@@ -130,10 +130,10 @@ visit_counter:
 # 动态定义title
 title_change:
   normal: Sea Blog
-  leave: 快来看看
+  leave: 人去哪了?
 
 # 设置为 true 发布后将使用 unpkg cdn
-cdn: true
+cdn: false
 
 # 设置为 true 将使用 lightbox render 图片
 lightbox: true
