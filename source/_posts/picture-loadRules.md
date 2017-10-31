@@ -1,7 +1,7 @@
 ---
 title: 图片加载与渲染规则
 date: 2017-10-31 14:29:06
-tags: [img]
+tags: [Img]
 categories: HTML
 ---
 

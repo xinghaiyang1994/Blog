@@ -1,7 +1,7 @@
 ---
 title: Smarty 语法
 date: 2017-10-31 15:04:33
-tags: [smarty]
+tags: [Smarty]
 categories: PHP
 ---
 
