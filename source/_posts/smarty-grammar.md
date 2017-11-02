@@ -2,7 +2,7 @@
 title: Smarty 语法
 categories: [PHP]
 tags: [Smarty]
-date: 2017-11-02 11:27:05
+date: 2017-3-16 14:21:06
 updated:
 ---
 
