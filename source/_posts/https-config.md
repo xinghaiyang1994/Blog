@@ -1,8 +1,9 @@
 ---
 title: 网站实现https
-date: 2017-11-02 11:00:45
+categories: [HTTP]
 tags: [https]
-categories: HTTP
+date: 2017-11-02 11:27:05
+updated:
 ---
 
 # 网站实现https

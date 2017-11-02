@@ -1,8 +1,9 @@
 ---
 title: Smarty 语法
-date: 2017-10-31 15:04:33
+categories: [PHP]
 tags: [Smarty]
-categories: PHP
+date: 2017-11-02 11:27:05
+updated:
 ---
 
 # Smarty 语法

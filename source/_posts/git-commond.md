@@ -1,8 +1,9 @@
 ---
 title: Git 常用命令
-date: 2017-10-31 11:41:56
+categories: [版本控制]
 tags: [Git]
-categories: 版本控制
+date: 2017-11-02 11:27:05
+updated:
 ---
 
 # Git 常用命令
@@ -12,7 +13,7 @@ http://www.open-open.com/lib/view/open1328069733264.html
 命令行：   
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
 
-![](http://ww1.sinaimg.cn/large/c13b829ely1fjiegq5j21j20go04u0ua.jpg)
+![](https://ww1.sinaimg.cn/large/c13b829ely1fjiegq5j21j20go04u0ua.jpg)
 
 * Workspace 工作区
 

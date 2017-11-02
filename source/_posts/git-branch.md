@@ -1,8 +1,9 @@
 ---
 title: Git 分支
-date: 2017-10-31 11:01:48
+categories: [版本控制]
 tags: [Git]
-categories: 版本控制
+date: 2017-11-02 11:27:05
+updated:
 ---
 
 # Git 分支

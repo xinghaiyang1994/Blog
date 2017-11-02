@@ -1,15 +1,16 @@
 ---
 title: Git flow
-date: 2017-10-31 11:30:10
+categories: [版本控制]
 tags: [Git]
-categories: 版本控制
+date: 2017-11-02 11:27:05
+updated:
 ---
 
 # Git flow
 教学视频：
 http://www.imooc.com/learn/751
 
-![](http://ww1.sinaimg.cn/mw690/c13b829ely1fjk2qqp4n6j20pm0ixq88.jpg)
+![](https://ww1.sinaimg.cn/mw690/c13b829ely1fjk2qqp4n6j20pm0ixq88.jpg)
 
 * master 正式版本分支，长期存在	
 
