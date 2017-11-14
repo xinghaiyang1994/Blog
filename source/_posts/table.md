@@ -1,5 +1,5 @@
 ---
-title: table
+title: 表格
 categories: [table]
 tags: [table]
 date: 2016-05-07 17:28:14
