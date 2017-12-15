@@ -80,7 +80,7 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: root@59.110.238.89:blog.git
+  repo: root@47.96.11.181:blog.git
   branch: master   
 
 feed:

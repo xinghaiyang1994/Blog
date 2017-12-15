@@ -1,6 +1,6 @@
 ---
 title: 表格
-categories: [table]
+categories: [HTML]
 tags: [table]
 date: 2016-05-07 17:28:14
 updated:
