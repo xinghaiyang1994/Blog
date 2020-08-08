@@ -1,7 +1,7 @@
 ---
 title: IntersectionObserver
 categories: []
-tags: []
+tags: [js]
 date: 2018-08-08 22:33:37
 updated:
 ---
